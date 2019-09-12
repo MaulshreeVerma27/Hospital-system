@@ -1,6 +1,7 @@
 # Hospital-system
 The folder structure of Hospital System is as follows:
 1. The folder 'Docs' contains all the documents such as deliverables and minutes of the meetings.
+2. The folder 'Presentations' contains all the presentations of our project.
 The folder 'code' comprises of the actual code of the project. this folder contains the following sub folers:
   1. Admin: In this folder, all the code files such as css pages, and web forms of admin module will be placed.
   2. Doctor : In this folder, all the code files such as css pages, and web forms of Doctor module will be placed. 
